@@ -1,0 +1,136 @@
+{
+  "title": {
+    "text": {
+      "headline": "Historia de los Mundiales de Fútbol",
+      "text": "Los momentos más importantes en la historia de la Copa Mundial de la FIFA desde su inicio en 1930."
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1930_uruguay_v_argentina.jpg",
+        "caption": "Uruguay vs Argentina, final del primer mundial.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1930"
+      },
+      "text": {
+        "headline": "Primer Mundial - Uruguay 1930",
+        "text": "La primera Copa del Mundo de la FIFA se celebró en Uruguay. La final fue entre Uruguay y Argentina, con una victoria de 4-2 para Uruguay, quien se convirtió en el primer campeón del mundo."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1934_world_cup_poster.jpg",
+        "caption": "Póster oficial de la Copa del Mundo de 1934 en Italia.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1934"
+      },
+      "text": {
+        "headline": "Italia 1934",
+        "text": "La segunda Copa del Mundo fue organizada por Italia, y fue el primer torneo en el que los equipos debieron clasificarse para participar. Italia se proclamó campeón al vencer a Checoslovaquia 2-1 en la final."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/World_Cup_1950_ticket.jpg",
+        "caption": "Entrada de la final de la Copa del Mundo de 1950 en Brasil.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1950"
+      },
+      "text": {
+        "headline": "Brasil 1950 - El Maracanazo",
+        "text": "El mundial de 1950 en Brasil es famoso por la inesperada derrota del país anfitrión ante Uruguay en la final, en un partido conocido como el 'Maracanazo'. Uruguay ganó 2-1 y dejó a miles de brasileños en shock."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pelé_Mexico_1970.jpg",
+        "caption": "Pelé celebrando en la final de la Copa del Mundo de 1970.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1970"
+      },
+      "text": {
+        "headline": "México 1970 - El Tercer Título de Brasil",
+        "text": "Brasil, liderado por Pelé, ganó su tercer título mundial en México, convirtiéndose en el primer equipo en lograrlo. La final fue una victoria de 4-1 contra Italia."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Argentina_1978_champion.JPG",
+        "caption": "Argentina celebra su primera Copa del Mundo.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1978"
+      },
+      "text": {
+        "headline": "Argentina 1978",
+        "text": "Argentina ganó su primer mundial en casa al derrotar a los Países Bajos 3-1 en tiempo extra. Fue una victoria significativa para Argentina, en medio de una época de gran inestabilidad política."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Maradona_1986_World_Cup.jpg",
+        "caption": "Diego Maradona en el Mundial de 1986.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1986"
+      },
+      "text": {
+        "headline": "México 1986 - La Mano de Dios",
+        "text": "El Mundial de México 1986 es recordado por la actuación legendaria de Diego Maradona, quien marcó dos goles históricos contra Inglaterra: el famoso gol de 'La Mano de Dios' y el 'Gol del Siglo'. Argentina ganó el torneo tras vencer a Alemania Occidental 3-2 en la final."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/France_98_celebration.jpg",
+        "caption": "Francia celebra la Copa del Mundo de 1998.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1998"
+      },
+      "text": {
+        "headline": "Francia 1998 - Campeón en casa",
+        "text": "Francia se coronó campeón del mundo por primera vez en su historia al derrotar a Brasil 3-0 en la final celebrada en París. Zinedine Zidane fue la estrella del partido, anotando dos goles de cabeza."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/2010_FIFA_World_Cup_Spain_team.jpg",
+        "caption": "España celebra su primer título mundial.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "2010"
+      },
+      "text": {
+        "headline": "Sudáfrica 2010 - La Furia Roja",
+        "text": "España ganó su primer mundial en Sudáfrica, venciendo a los Países Bajos 1-0 en la final gracias a un gol de Andrés Iniesta en tiempo extra. Este fue el primer mundial celebrado en África."
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2018_FIFA_World_Cup_Final_2.jpg",
+        "caption": "Francia celebra su segundo título mundial en 2018.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "2018"
+      },
+      "text": {
+        "headline": "Rusia 2018 - Francia Campeón",
+        "text": "Francia ganó su segundo mundial en 2018 al vencer a Croacia 4-2 en la final. Fue un torneo destacado por el uso de la tecnología VAR y la aparición de nuevas estrellas jóvenes como Kylian Mbappé."
+      }
+    }
+  ]
+}
