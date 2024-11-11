@@ -1,33 +1,33 @@
 {
   "title": {
     "text": {
-      "headline": "Historia de los Mundiales de Fútbol",
-      "text": "Los momentos más importantes en la historia de la Copa Mundial de la FIFA desde su inicio en 1930."
+      "headline": "Humedal El Culebrón",
+      "text": "Los momentos más importantes en la historia de la conservación y protección del Humedal El Culebrón."
     }
   },
   "events": [
     {
       "media": {
-        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7FDdRzTs9ENAtzm1ZL4osGv3EgQcB5z3TA&s",
-        "caption": "Uruguay vs Argentina, final del primer mundial.",
-        "credit": "Wikimedia Commons"
+        "url": "https://chileestuyo.cl/wp-content/uploads/2021/12/humedal8.jpg",
+        "caption": "Vista panorámica del Humedal El Culebrón.",
+        "credit": "Chile es Tuyo"
       },
       "start_date": {
-        "year": "1930"
+        "year": "1980"
       },
       "text": {
-        "headline": "Primer Mundial - Uruguay 1930",
-        "text": "La primera Copa del Mundo de la FIFA se celebró en Uruguay. La final fue entre Uruguay y Argentina, con una victoria de 4-2 para Uruguay, quien se convirtió en el primer campeón del mundo."
+        "headline": "Reconocimiento ecológico",
+        "text": "A lo largo de la década de 1980, el Humedal El Culebrón comienza a ser reconocido por su biodiversidad, jugando un papel importante en la conservación de especies y como regulador hídrico en la Región Metropolitana de Chile."
       }
     },
     {
       "media": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/1934_world_cup_poster.jpg",
-        "caption": "Póster oficial de la Copa del Mundo de 1934 en Italia.",
-        "credit": "Wikimedia Commons"
+        "url": "https://www.plataformacostera.org/web/wp-content/uploads/2023/02/inicio_img_1-27-1920x1280.jpg",
+        "caption": "Plantas acuáticas en el Humedal El Culebrón.",
+        "credit": "Plataforma Costera"
       },
       "start_date": {
-        "year": "1934"
+        "year": "1990"
       },
       "text": {
         "headline": "Italia 1934",
